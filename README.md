@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vicktar
-- 📫 How to reach me ...https://twitter.com/ViktarOfVegas
+- 📫 How to never reach me ...https://twitter.com/ViktarOfVegas
 
 <!---
 vicktar/vicktar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
